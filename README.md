@@ -1,6 +1,7 @@
 # SystemUI
 
-Android Pie(9.0):
+ Android Pie(9.0):
+ 
 “Everything you see in Android that's not an app”
 
 SystemUI is a persistent process that provides UI for the system but outside
@@ -169,5 +170,5 @@ Fingerprint UI.
 
 ---
 
- * [Plugins](/packages/SystemUI/docs/plugins.md)
- * [Demo Mode](/packages/SystemUI/docs/demo_mode.md)
+ * [Plugins](/docs/plugins.md)
+ * [Demo Mode](/docs/demo_mode.md)
